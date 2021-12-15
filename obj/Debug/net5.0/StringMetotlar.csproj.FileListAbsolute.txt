@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\StringMetotlar.exe
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\StringMetotlar.deps.json
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\StringMetotlar.runtimeconfig.json
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\StringMetotlar.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\StringMetotlar.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\ref\StringMetotlar.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\bin\Debug\net5.0\StringMetotlar.pdb
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\ref\StringMetotlar.dll
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.pdb
+C:\Users\ASUS\Desktop\Halil\VsCodeProjects\Algorithms\StringMetotlar\obj\Debug\net5.0\StringMetotlar.genruntimeconfig.cache
